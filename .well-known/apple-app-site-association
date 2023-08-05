@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "TEAM_ID_APPLE_DEV.es.rlujancreations.skeleton",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

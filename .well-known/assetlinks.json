@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "es.rlujancreations.skeleton",
+    "sha256_cert_fingerprints":
+    ["3C:75:CE:2F:69:AC:AC:3C:94:32:A3:47:B8:24:07:95:E1:E0:37:E6:3F:FB:67:78:04:6C:AE:85:4F:7D:85:AC"]
+  }
+}]
